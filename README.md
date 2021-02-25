@@ -1,6 +1,6 @@
 ## 试题内容
 
-有一组采用 ASCII 编码的字符串被保存在名为`data.txt`的文本文件中，位于本仓库 Main 分支根的路径下，链接为：
+有一组采用 ASCII 编码的字符串被保存在名为`data.txt`的文本文件中，位于原仓库 Main 分支根的路径下，链接为：
 
 <https://raw.githubusercontent.com/cmstop-com/2021-intern-test/main/data.txt> 
 
