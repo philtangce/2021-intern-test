@@ -1,6 +1,10 @@
 ## 试题内容
 
-有一组采用 ASCII 编码的字符串被保存在名为`data.txt`的文本文件中，位于本仓库 Main 分支根的路径下。现有一个需求，对该文件所包含的内容远程读取，并逐行排序。具体规则如下：
+有一组采用 ASCII 编码的字符串被保存在名为`data.txt`的文本文件中，位于本仓库 Main 分支根的路径下，链接为：
+
+<https://raw.githubusercontent.com/cmstop-com/2021-intern-test/main/data.txt> 
+
+现有一个需求，对该文件所包含的内容远程读取，并逐行排序。具体规则如下：
 
 ### 排序规则
 
